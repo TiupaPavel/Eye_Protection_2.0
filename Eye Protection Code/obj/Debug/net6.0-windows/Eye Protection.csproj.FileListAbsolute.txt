@@ -1,0 +1,82 @@
+C:\Projects\+\Eye Protection Code\bin\Debug\net6.0-windows\Eye Protection.exe
+C:\Projects\+\Eye Protection Code\bin\Debug\net6.0-windows\Eye Protection.deps.json
+C:\Projects\+\Eye Protection Code\bin\Debug\net6.0-windows\Eye Protection.runtimeconfig.json
+C:\Projects\+\Eye Protection Code\bin\Debug\net6.0-windows\Eye Protection.dll
+C:\Projects\+\Eye Protection Code\bin\Debug\net6.0-windows\Eye Protection.pdb
+C:\Projects\+\Eye Protection Code\obj\Debug\net6.0-windows\Task_9.Form1.resources
+C:\Projects\+\Eye Protection Code\obj\Debug\net6.0-windows\Eye_Protection.Properties.Resources.resources
+C:\Projects\+\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.csproj.GenerateResource.cache
+C:\Projects\+\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\+\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.AssemblyInfoInputs.cache
+C:\Projects\+\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.AssemblyInfo.cs
+C:\Projects\+\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.csproj.CoreCompileInputs.cache
+C:\Projects\+\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.dll
+C:\Projects\+\Eye Protection Code\obj\Debug\net6.0-windows\refint\Eye Protection.dll
+C:\Projects\+\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.pdb
+C:\Projects\+\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.genruntimeconfig.cache
+C:\Projects\+\Eye Protection Code\obj\Debug\net6.0-windows\ref\Eye Protection.dll
+C:\Projects\+\Eye Protection Code\obj\Debug\net6.0-windows\Eye_Protection.Form2.resources
+C:\Projects\Eye Protection Code\bin\Debug\net6.0-windows\Eye Protection.exe
+C:\Projects\Eye Protection Code\bin\Debug\net6.0-windows\Eye Protection.deps.json
+C:\Projects\Eye Protection Code\bin\Debug\net6.0-windows\Eye Protection.runtimeconfig.json
+C:\Projects\Eye Protection Code\bin\Debug\net6.0-windows\Eye Protection.dll
+C:\Projects\Eye Protection Code\bin\Debug\net6.0-windows\Eye Protection.pdb
+C:\Projects\Eye Protection Code\obj\Debug\net6.0-windows\Task_9.Form1.resources
+C:\Projects\Eye Protection Code\obj\Debug\net6.0-windows\Eye_Protection.Form2.resources
+C:\Projects\Eye Protection Code\obj\Debug\net6.0-windows\Eye_Protection.Properties.Resources.resources
+C:\Projects\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.csproj.GenerateResource.cache
+C:\Projects\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.AssemblyInfoInputs.cache
+C:\Projects\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.AssemblyInfo.cs
+C:\Projects\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.csproj.CoreCompileInputs.cache
+C:\Projects\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.dll
+C:\Projects\Eye Protection Code\obj\Debug\net6.0-windows\refint\Eye Protection.dll
+C:\Projects\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.pdb
+C:\Projects\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.genruntimeconfig.cache
+C:\Projects\Eye Protection Code\obj\Debug\net6.0-windows\ref\Eye Protection.dll
+C:\Diplom\Eye Protection Code\bin\Debug\net6.0-windows\Eye Protection.exe
+C:\Diplom\Eye Protection Code\bin\Debug\net6.0-windows\Eye Protection.deps.json
+C:\Diplom\Eye Protection Code\bin\Debug\net6.0-windows\Eye Protection.runtimeconfig.json
+C:\Diplom\Eye Protection Code\bin\Debug\net6.0-windows\Eye Protection.dll
+C:\Diplom\Eye Protection Code\bin\Debug\net6.0-windows\Eye Protection.pdb
+C:\Diplom\Eye Protection Code\obj\Debug\net6.0-windows\Task_9.Form1.resources
+C:\Diplom\Eye Protection Code\obj\Debug\net6.0-windows\Eye_Protection.Form2.resources
+C:\Diplom\Eye Protection Code\obj\Debug\net6.0-windows\Eye_Protection.Properties.Resources.resources
+C:\Diplom\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.csproj.GenerateResource.cache
+C:\Diplom\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Diplom\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.AssemblyInfoInputs.cache
+C:\Diplom\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.AssemblyInfo.cs
+C:\Diplom\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.csproj.CoreCompileInputs.cache
+C:\Diplom\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.dll
+C:\Diplom\Eye Protection Code\obj\Debug\net6.0-windows\refint\Eye Protection.dll
+C:\Diplom\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.pdb
+C:\Diplom\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.genruntimeconfig.cache
+C:\Diplom\Eye Protection Code\obj\Debug\net6.0-windows\ref\Eye Protection.dll
+C:\Diplom\Eye Protection Code\obj\Debug\net6.0-windows\Eye_Protection.Form3.resources
+C:\Diplom\Eye Protection Code\obj\Debug\net6.0-windows\Eye_Protection.Form4.resources
+C:\Projects\Eye Protection Code\obj\Debug\net6.0-windows\Eye_Protection.Form3.resources
+C:\Projects\Eye Protection Code\obj\Debug\net6.0-windows\Eye_Protection.Form4.resources
+C:\Eye Protection Code\bin\Debug\net6.0-windows\Eye Protection.exe
+C:\Eye Protection Code\bin\Debug\net6.0-windows\Eye Protection.deps.json
+C:\Eye Protection Code\bin\Debug\net6.0-windows\Eye Protection.runtimeconfig.json
+C:\Eye Protection Code\bin\Debug\net6.0-windows\Eye Protection.dll
+C:\Eye Protection Code\bin\Debug\net6.0-windows\Eye Protection.pdb
+C:\Eye Protection Code\obj\Debug\net6.0-windows\Task_9.Form1.resources
+C:\Eye Protection Code\obj\Debug\net6.0-windows\Eye_Protection.Form2.resources
+C:\Eye Protection Code\obj\Debug\net6.0-windows\Eye_Protection.Form3.resources
+C:\Eye Protection Code\obj\Debug\net6.0-windows\Eye_Protection.Form4.resources
+C:\Eye Protection Code\obj\Debug\net6.0-windows\Eye_Protection.Properties.Resources.resources
+C:\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.csproj.GenerateResource.cache
+C:\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.AssemblyInfoInputs.cache
+C:\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.AssemblyInfo.cs
+C:\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.csproj.CoreCompileInputs.cache
+C:\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.dll
+C:\Eye Protection Code\obj\Debug\net6.0-windows\refint\Eye Protection.dll
+C:\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.pdb
+C:\Eye Protection Code\obj\Debug\net6.0-windows\Eye Protection.genruntimeconfig.cache
+C:\Eye Protection Code\obj\Debug\net6.0-windows\ref\Eye Protection.dll
+C:\Eye Protection Code\obj\Debug\net6.0-windows\Eye_Protection.Form5.resources
+C:\Eye Protection Code\obj\Debug\net6.0-windows\Eye_Protection.Form6.resources
+C:\Eye Protection Code\obj\Debug\net6.0-windows\Eye_Protection.Form7.resources
+C:\Eye Protection Code\obj\Debug\net6.0-windows\Eye_Protection.Form8.resources
